@@ -17,12 +17,12 @@ copyright: false
 
 ~~~yml
 ```yml
-- site: #网站的名字
-  owner: #您的名字
-  url: #您的网址
-  desc: #简短描述
-  image: #一张图片
-  color: #方块颜色
+- site: #blog
+  owner: #蒋伟
+  url: #https://github.com/smallTail6/blog
+  desc: #blog
+  image: #s
+  color: #pink
 ```
 ~~~
 
